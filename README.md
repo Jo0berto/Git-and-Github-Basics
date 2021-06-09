@@ -1,3 +1,2 @@
 # Notes
-This is notes for Git
-Testing SSH keys
+My notes for Git & Github that i am learning.
